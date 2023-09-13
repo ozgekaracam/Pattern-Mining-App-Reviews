@@ -1,0 +1,2 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+53,frozenset({'censorship'}),frozenset({'video'}),0.17777777777777778,0.26666666666666666,0.044444444444444446,0.25,0.9375,-0.002962962962962966,0.9777777777777779,-0.07500000000000008

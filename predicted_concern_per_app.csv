@@ -1,0 +1,65 @@
+,predicted,app_name,counts
+0,discrimination,tiktok,56
+1,inappropriate content,tiktok,35
+2,cyberbullying/toxicity,tiktok,34
+3,safety,uber,28
+4,censorship,facebook,21
+5,accountability,uber,14
+6,addiction,tiktok,14
+7,spreading false information,youtube,13
+8,inappropriate content,youtube,13
+9,scam,uber,13
+10,identity theft,instagram,11
+11,scam,tiktok,9
+12,discrimination,facebook,9
+13,identity theft,facebook,8
+14,accountability,tiktok,8
+15,safety,tiktok,7
+16,discrimination,uber,7
+17,censorship,youtube,7
+18,addiction,vinted,7
+19,privacy,linkedin,5
+20,spreading false information,instagram,5
+21,spreading false information,tiktok,5
+22,censorship,tiktok,5
+23,privacy,tiktok,5
+24,scam,facebook,4
+25,privacy,facebook,4
+26,identity theft,tiktok,4
+27,scam,youtube,3
+28,privacy,youtube,3
+29,safety,zoom,3
+30,accountability,facebook,3
+31,accountability,vinted,3
+32,censorship,instagram,3
+33,discrimination,youtube,3
+34,cyberbullying/toxicity,zoom,3
+35,discrimination,instagram,3
+36,safety,youtube,2
+37,scam,vinted,2
+38,privacy,zoom,2
+39,spreading false information,facebook,2
+40,identity theft,linkedin,2
+41,privacy,instagram,2
+42,privacy,alexa,2
+43,inappropriate content,zoom,2
+44,discrimination,linkedin,2
+45,accountability,instagram,2
+46,scam,instagram,2
+47,spreading false information,linkedin,1
+48,scam,zoom,1
+49,addiction,alexa,1
+50,addiction,facebook,1
+51,addiction,youtube,1
+52,safety,instagram,1
+53,censorship,vinted,1
+54,cyberbullying/toxicity,instagram,1
+55,cyberbullying/toxicity,linkedin,1
+56,accountability,googlehome,1
+57,safety,facebook,1
+58,privacy,uber,1
+59,discrimination,alexa,1
+60,discrimination,googlehome,1
+61,privacy,googlehome,1
+62,inappropriate content,facebook,1
+63,identity theft,uber,1
