@@ -17,3 +17,4 @@ Our approach uncovers contextual patterns in identified ethical concerns. Follow
 
 4. Network graph visualization
 	4.1. Network.ipynb
+(https://github.com/ozgekaracam/Pattern-Mining-App-Reviews/assets/90089950/a80783fb-9c6b-4723-ac2c-3861c366c2eb)
